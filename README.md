@@ -1,2 +1,3 @@
-# ResearchJournal
-A weekly research journal
+# Research Journal
+A weekly research journal for my work at LLNL.
+
